@@ -17,7 +17,7 @@ const MyWork = () => {
           rel="noopener noreferrer"
         >
           Password Generator
-          <img src="/src/assets/project1.jpg" alt="Project Image" />
+          <img src="/images/project1.jpg" alt="Project Image" />
         </a>
         <a
           href="https://emirberkoncu-quiz.vercel.app/"
@@ -25,7 +25,7 @@ const MyWork = () => {
           rel="noopener noreferrer"
         >
           Quiz App
-          <img src="/src/assets/project2.jpg" alt="Project Image" />
+          <img src="/images/project2.jpg" alt="Project Image" />
         </a>
 
         <a
@@ -34,7 +34,7 @@ const MyWork = () => {
           rel="noopener noreferrer"
         >
           Todo App
-          <img src="/src/assets/project13.jpeg" alt="Project Image" />
+          <img src="/images/project13.jpeg" alt="Project Image" />
         </a>
 
         <a
@@ -43,7 +43,7 @@ const MyWork = () => {
           rel="noopener noreferrer"
         >
           Boe Fitness Academy
-          <img src="/src/assets/project4.png" alt="Project Image" />
+          <img src="/images/project4.png" alt="Project Image" />
         </a>
 
         <a
@@ -52,7 +52,7 @@ const MyWork = () => {
           rel="noopener noreferrer"
         >
           Ecommerce Site
-          <img src="/src/assets/project7.png" alt="Project Image" />
+          <img src="/images/project7.png" alt="Project Image" />
         </a>
         <a
           href="https://weatherapp-emirberkoncu.vercel.app/"
@@ -60,7 +60,7 @@ const MyWork = () => {
           rel="noopener noreferrer"
         >
           Weather App
-          <img src="/src/assets/image.png" alt="Project Image" />
+          <img src="/images/image.png" alt="Project Image" />
         </a>
       </div>
       <div className="mywork-showmore">
