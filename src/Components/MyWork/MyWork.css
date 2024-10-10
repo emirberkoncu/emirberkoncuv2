@@ -1,0 +1,58 @@
+.mywork {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+  margin: 80px 170px;
+}
+
+.mywork-title {
+  position: relative;
+}
+
+.mywork-title h1 {
+  padding: 0px 30px;
+  font-size: 80px;
+  font-weight: 600;
+}
+
+.mywork-title img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+}
+
+.mywork-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 40px;
+  text-decoration: none !important;
+}
+
+.mywork-container img {
+  box-sizing: border-box;
+  width: 419px;
+  height: 280px;
+  transition: 0.3s;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.mywork-container a {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.mywork-container img:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+
+.mywork-showmore {
+  margin-bottom: 80px;
+  padding: 30px 60px;
+}
