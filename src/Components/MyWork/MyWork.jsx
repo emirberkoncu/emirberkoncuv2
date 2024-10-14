@@ -60,7 +60,31 @@ const MyWork = () => {
           rel="noopener noreferrer"
         >
           Weather App
-          <img src="/images/image.png" alt="Project Image" />
+          <img src="/images/weather.png" alt="Project Image" />
+        </a>
+        <a
+          href="https://moviesearch-sage.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Movie Search App
+          <img src="/images/moviesearch.png" alt="Project Image" />
+        </a>
+        <a
+          href="https://tictactoe-orcin-five.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Tic-Tac-Toe
+          <img src="/images/tictactoe.png" alt="Project Image" />
+        </a>
+        <a
+          href="https://cryptocurrency-nine-liard.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Crypto Tracker
+          <img src="/images/crypto.png" alt="Project Image" />
         </a>
       </div>
       <div className="mywork-showmore">
